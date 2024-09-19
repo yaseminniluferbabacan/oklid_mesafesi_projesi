@@ -5,9 +5,7 @@ Minimum Öklid Mesafesinin Hesaplanması
 Oklid Mesafesi Hesaplama Projesi
 Bu proje, 2D uzayda iki nokta arasındaki Öklid mesafesini hesaplayan bir Python uygulamasıdır. Proje, matematiksel olarak iki nokta arasındaki düz çizgi mesafesini hesaplamak için kullanılır ve özellikle çeşitli mühendislik, fizik ve bilgisayar bilimleri alanlarında uygulanabilir.
 
-Proje Özeti
-Oklid mesafesi, iki nokta arasındaki en kısa mesafeyi ifade eder.
-
+Proje Özeti;
 Bu projede, belirlenen noktalar arasındaki mesafeler hesaplanmış ve Python ile minimum mesafe bulunmuştur.
 
 Özellikler
